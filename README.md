@@ -1,6 +1,5 @@
-#### Contributors: [Majeed Thaika](https://github.com/majeedthaika), [Anshu Aviral](https://github.com/cyclotronian)
-
-#### [https://majeedthaika.github.io/THOMAS/](https://majeedthaika.github.io/THOMAS/) 
+Contributors: [Majeed Thaika](https://github.com/majeedthaika), [Anshu Aviral](https://github.com/cyclotronian)
+[https://majeedthaika.github.io/THOMAS/](https://majeedthaika.github.io/THOMAS/) 
 
 ### Summary
 
