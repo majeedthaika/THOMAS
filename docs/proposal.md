@@ -1,7 +1,6 @@
-#### URL: [https://majeedthaika.github.io/THOMAS/](https://majeedthaika.github.io/THOMAS/) 
+Contributors: [Majeed Thaika](https://github.com/majeedthaika), [Anshu Aviral](https://github.com/cyclotronian)
 
-### 15-618 Final Project, Fall 2018
-#### Contributors: Majeed Thaika, Anshu Aviral
+[https://majeedthaika.github.io/THOMAS/](https://majeedthaika.github.io/THOMAS/) 
 
 ### Summary
 
