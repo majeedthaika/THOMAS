@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
 title: THOMAS: Tuning Highly-efficient Offline Multi-layer-NN on Android SoCs
-logo: url(https://github.com/majeedthaika/THOMAS/blob/master/thomas-face.jpg)
+logo: /thomas-face.jpg
