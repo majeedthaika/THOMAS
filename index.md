@@ -1,4 +1,4 @@
-background-image: url(https://github.com/majeedthaika/THOMAS/blob/master/hLuixhz-thomas-wallpaper.jpg)
+background-image: https://github.com/majeedthaika/THOMAS/blob/master/hLuixhz-thomas-wallpaper.jpg
 
 Contributors: [Majeed Thaika](https://github.com/majeedthaika), [Anshu Aviral](https://github.com/cyclotronian)
 
