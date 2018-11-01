@@ -1,5 +1,5 @@
 ---
-layout: default
+logo: thomas-face.jpg
 ---
 
 Contributors: [Majeed Thaika](https://github.com/majeedthaika), [Anshu Aviral](https://github.com/cyclotronian)
