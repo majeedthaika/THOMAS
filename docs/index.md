@@ -1,9 +1,7 @@
-## 15-618: Parallel Computer Architecture and Programming
-### Majeed Thaika, Anshu Aviral
+#### URL: https://majeedthaika.github.io/THOMAS/ 
 
-### THOMAS: Tuning Highly-efficient Offline Multi-Layer-NN on Android SoCs
-
-### URL: http://www.andrew.cmu.edu/user/aanshu/ 
+### 15-618 Final Project, Fall 2018
+### Contributors: Majeed Thaika, Anshu Aviral
 
 ### Summary
 
