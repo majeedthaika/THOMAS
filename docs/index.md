@@ -1,7 +1,7 @@
-#### URL: https://majeedthaika.github.io/THOMAS/ 
+#### URL: [https://majeedthaika.github.io/THOMAS/](https://majeedthaika.github.io/THOMAS/) 
 
 ### 15-618 Final Project, Fall 2018
-### Contributors: Majeed Thaika, Anshu Aviral
+#### Contributors: Majeed Thaika, Anshu Aviral
 
 ### Summary
 
