@@ -12,4 +12,12 @@ For the poster session, we plan to demonstrate running inference for image class
 
 ### Revised Schedule
 
-Our revised schedule is same as our original proposed schedule.
+Time | Plan |
+--- | --- | 
+Nov 5 | - [x] Familiarize ourselves with TensorFlow Lite and TransferCL and start modifying the code to work with Android devices.
+Nov 12 | - [x] Finish deploying the serial code and start parallelizing inference for different kinds of layers. 
+Nov 19 | - [x] Finish parallelizing inference on different kinds of layers of the neural network (60% goal) 
+Nov 26 | - [ ] Start working on the serial implementation of the fine tuning construct for the last layer of the network 
+Dec 3 | - [ ] Write code that utilizes the GPU for parallelizing the fine tuning of the last layer of the network (100%) 
+Dec 10 | - [ ] Extend the implementation to perform retraining of the whole network 
+Dec 15 | - [ ] Analyze and compare the performance metrics for each stage of the implementation 
