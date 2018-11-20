@@ -46,7 +46,7 @@ Time | Plan |
 --- | --- | 
 Nov 5 | Familiarize ourselves with DeepCL and start modifying the code to work with Android devices 
 Nov 12 | Finish deploying the serial code and start parallelizing inference for different kinds of layers. 
-Nov 19 | Finish parallelizing inference on different kinds of layers of the neural network (80% goal) 
+Nov 19 | Finish parallelizing inference on different kinds of layers of the neural network (60% goal) 
 Nov 26 | Start working on the serial implementation of the fine tuning construct for the last layer of the network 
 Dec 3 | Write code that utilizes the GPU for parallelizing the fine tuning of the last layer of the network (100%) 
 Dec 10 | Extend the implementation to perform retraining of the whole network 
