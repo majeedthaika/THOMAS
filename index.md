@@ -3,3 +3,4 @@ Contributors: [Majeed Thaika](https://github.com/majeedthaika), [Anshu Aviral](h
 Homepage: [https://majeedthaika.github.io/THOMAS/](https://majeedthaika.github.io/THOMAS/) 
 
 ### [Proposal](https://majeedthaika.github.io/THOMAS/proposal)
+### [Checkpoint](https://majeedthaika.github.io/THOMAS/checkpoint)
