@@ -1,4 +1,5 @@
 Contributors: [Majeed Thaika](https://github.com/majeedthaika), [Anshu Aviral](https://github.com/cyclotronian)
+We contributed equally to the project.
 
 Homepage: [https://majeedthaika.github.io/THOMAS](https://majeedthaika.github.io/THOMAS) 
 
