@@ -4,3 +4,4 @@ Homepage: [https://majeedthaika.github.io/THOMAS/](https://majeedthaika.github.i
 
 ### [Proposal](https://majeedthaika.github.io/THOMAS/proposal)
 ### [Checkpoint](https://majeedthaika.github.io/THOMAS/checkpoint)
+### [Final Report](https://majeedthaika.github.io/THOMAS/final_report.pdf)
